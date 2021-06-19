@@ -2,15 +2,15 @@
 
 ### API Instructions and Notes
 
-* The api post URL is: https://localhost:44339/api/v1/QuoteEngine
+* The API post URL is: https://localhost:44339/api/v1/QuoteEngine
 
-* While Postman can be used to test the Api, Swagger is wired up and will run automatically.
+* In addition to using Postman to test the Api, Swagger is wired up and will run automatically.
 
-* Test the input values (Revenue, State, Business) with faulty values to observe basic error handling.
+* Test the input values (Revenue, State, Business) with faulty values to observe basic error responses.
 
 * A few simple unit tests have been added and can be executed using the normal Test Explorer. These tests were written using the Machine.Specifications packages to encourage TDD and BDD.
 
-### Next Steps
+### Next Steps (and Beyond)
 
 1. Implement Logging
 
